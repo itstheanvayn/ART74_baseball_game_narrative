@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Light background #f9f9f9 */
+    color: #333; /* Text color */
+}
+
+h1 {
+    color: #2c3e50; /* Header color */
+}
+
+a {
+    color: #3498db; /* Link color */
+}
+
+a:hover {
+    text-decoration: underline; /* Adds underline effect on hover */
+}
